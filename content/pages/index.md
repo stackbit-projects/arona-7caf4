@@ -68,7 +68,7 @@ sections:
           proyectos. Gracias Arona. Gracias Holguin
 
 
-          ***Lianet Median Perez**, Residente en Neuro Cirugia*
+          ***Lianet Median Perez**, Influencer*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
