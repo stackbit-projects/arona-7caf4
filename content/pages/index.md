@@ -8,7 +8,7 @@ sections:
     subtitle: Orgullosos de poder ostentar con los precios más competitivos del mercado.
     actions:
       - label: Contáctenos
-        url: /contact
+        url: 'https://wa.me/c/5356762290'
         style: primary
     image: images/hero.png
     image_alt: A smiling woman
