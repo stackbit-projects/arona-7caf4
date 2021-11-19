@@ -27,8 +27,7 @@ sections:
     title: Nuestros Servicios
     subtitle: Que hacemos?
     features:
-      - subtitle: 'Website, blog, social media and more.'
-        content: >
+      - content: >
           Los productos de Arona se caracterizan por ser realizados manualmente
           por sus creadoras a partir de una constante realimentación con
           nuestros clientes.
