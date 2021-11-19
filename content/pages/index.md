@@ -33,13 +33,7 @@ sections:
           Los productos de Arona se caracterizan por ser realizados manualmente
           por sus creadoras a partir de una constante realimentación con
           nuestros clientes.
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
