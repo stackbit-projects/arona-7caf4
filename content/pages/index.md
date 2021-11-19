@@ -59,7 +59,7 @@ sections:
           las noches nocturnas de Holguin.
 
 
-          **Miles Tone,** *CEO, Studio*
+          ***Roberto Suarez**, Activista por los Derechos de los Animales*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
