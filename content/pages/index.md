@@ -30,9 +30,9 @@ sections:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
         content: >
-          Los productos de Arona se caracterizan por sear realizados manualmente
+          Los productos de Arona se caracterizan por ser realizados manualmente
           por sus creadoras a partir de una constante realimentación con
-          nuestros clientes
+          nuestros clientes.
         actions:
           - label: See Writing Samples
             url: /faq
