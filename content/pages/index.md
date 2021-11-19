@@ -68,7 +68,7 @@ sections:
           proyectos. Gracias Arona. Gracias Holguin
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          *Lianet Median Perez, **Residente en Neuro Cirugia***
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
