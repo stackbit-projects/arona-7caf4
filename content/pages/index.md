@@ -48,7 +48,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Testimonios
     subtitle: Qué dicen nuestros clientes?
     grid_items:
       - content: >-
