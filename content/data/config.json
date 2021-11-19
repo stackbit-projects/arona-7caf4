@@ -125,16 +125,6 @@
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "WhatsApp",
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false
             }
         ],
         "content": "© Todos los derechos reservados. Arona 2021"
