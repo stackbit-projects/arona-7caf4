@@ -80,7 +80,7 @@ export default class Header extends React.Component {
                 <div className="container">
                     <nav className="navbar flex items-center" aria-label="Main Navigation">
                         <Link className="sr-only" href="#content">Skip to main content</Link>
-                        <div className="navbar__branding mr-2">
+                        <div className=" mr-2">
                             {logo ? <Link className="navbar__logo m-0" href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link>
                                 : <Link className="navbar__title h4 m-0" href={withPrefix('/')}>{title}</Link>}
                         </div>
