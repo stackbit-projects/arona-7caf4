@@ -10,7 +10,7 @@ sections:
       - label: Contáctenos
         url: 'https://wa.me/c/5356762290'
         style: primary
-    image: images/hero.png
+    image: /images/My Post2.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
