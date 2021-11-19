@@ -126,7 +126,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "© Tod"
     },
     "domain": "https://arona.cuba.com",
     "announcement": {
