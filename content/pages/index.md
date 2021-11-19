@@ -5,9 +5,7 @@ sections:
     title: >-
       Hola, somos Arona Cuba. En esta página se promocionan los productos de la
       marca Arona (aretes y otras manualidades para colorear tu día a día)
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Contamos con los precios más competitivos del mercado.
     actions:
       - label: Contáctenos
         url: /contact
