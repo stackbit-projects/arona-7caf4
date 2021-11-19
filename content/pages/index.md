@@ -78,7 +78,7 @@ sections:
           por lo que hacen.
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Elizabeth Lemus,** Presidenta de la ONG "*Usemos areticos baratos*"
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
