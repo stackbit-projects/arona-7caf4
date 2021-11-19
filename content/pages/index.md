@@ -72,9 +72,10 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          Las grandes corporaciones de la moda no hacen mas que perseguir las
+          nuevas tendencias que esta marcando Arona. Gracias a estas 3 chicas
+          por lo que hacen.
 
 
           **Gordon Norman,** *Web Designer, Local Business*
