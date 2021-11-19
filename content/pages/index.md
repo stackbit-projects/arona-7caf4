@@ -34,7 +34,7 @@ sections:
           por sus creadoras a partir de una constante realimentación con
           nuestros clientes.
         actions: []
-        image: images/feature-1.svg
+        image: /images/pexels-miriam-alonso-7585822.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
