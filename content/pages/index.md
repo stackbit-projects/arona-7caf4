@@ -50,7 +50,7 @@ sections:
           martes
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Emily Santana,** Emprendedora
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
