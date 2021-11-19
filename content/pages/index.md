@@ -209,7 +209,9 @@ sections:
     background_image_opacity: 8
 seo:
   title: Arona Cuba
-  description: The preview of the Personal theme
+  description: >-
+    Este sitio sirve para promocionar un emprendimiento en Cuba dedicado a la
+    venta de objeto de belleza para mujeres
   extra:
     - name: 'og:type'
       value: website
