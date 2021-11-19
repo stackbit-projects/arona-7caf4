@@ -63,10 +63,9 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: >
+          Las fundadoras de esta startup me han servido de ejemplo en mis nuevos
+          proyectos. Gracias Arona. Gracias Holguin
 
 
           **Eleanor Carr,** *CTO, eCommerce Business*
