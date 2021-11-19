@@ -2,7 +2,9 @@
 title: Inicio
 sections:
   - type: hero_section
-    title: 'Hola, somos Arona Cuba. Un emprendimiento desde Cuba para ayudar con l'
+    title: >-
+      Hola, somos Arona Cuba. En esta página se promocionan los productos de la
+      marca Arona (aretes y otras manualidades para colorear tu día a día)
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
