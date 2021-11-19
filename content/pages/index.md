@@ -5,7 +5,7 @@ sections:
     title: >-
       En esta página se promocionan los productos de la marca Arona (aretes y
       otras manualidades para colorear tu día)
-    subtitle: Orgullosos de poder ostentar con los precios más competitivos del mercado.
+    subtitle: Orgullosos de poder ostentar los precios más competitivos del mercado.
     actions:
       - label: Contáctenos
         url: 'https://wa.me/c/5356762290'
